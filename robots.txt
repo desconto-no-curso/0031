@@ -6,3 +6,11 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+Sitemap: https://vitrine-de-milhoes.desconto-no-curso.com.br/sitemap.xml
+
+
+
+
